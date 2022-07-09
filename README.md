@@ -20,6 +20,7 @@ To install necessary dependencies, run the following command: `npm install` afte
 ## Usage
 
 The Github repository can be viewed via this link, https://github.com/ElsieMay/PWA_Text_Editor.
+The deployed application can be viewed via this link, https://elsie-jate-text-editor.herokuapp.com.
 
 ## Credits
 
